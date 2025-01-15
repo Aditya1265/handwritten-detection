@@ -12,4 +12,4 @@ The goal of this project is to build and deploy a machine learning model that re
 
 ## Features
 - **Dataset**: MNIST dataset (70,000 grayscale images of handwritten digits)
-- **Model**: Convolutional Neural Network (CNN) using TensorFlow/Keras
+- **Model**: Convolutional Neural Network (CNN) using TensorFlow
